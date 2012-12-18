@@ -6,3 +6,7 @@ a simple ajax movie search application. Once you type in a movie name, it gonna 
 Once the user click the button, a java servlet gonna receive the request and send it to a Apache server. the server will use perl regex to get the first 5 results from imdb.com and send them back using json. After the java servlet get the results, it also send the json format results back to client. The jQuery code is responsible for showing the json info in a proper way. Then users can view the search results, and share a movie on facebook.
 
 This is a homework of CSCI571 web technology.
+http://cs-server.usc.edu:11104/examples/servlets/movie.html
+
+ATTENTION: if you cannot open the above link, maybe my server has been closed after finishing the course.
+
